@@ -1,1 +1,35 @@
-nigger
+Changelog 2025/01/12
+ ● Added advanced Discord scraping capabilities for deeper data extraction.
+ ● Added support for multiple data sources, including Telegram and Twitter.
+ ● Fixed a bug that caused incorrect data parsing when using custom filters.
+ ● Soon: Implementing AI-driven analytics for pattern recognition in user behaviors.
+
+Changelog 2025/01/05
+ ● Added a new dark mode theme for better user experience during nighttime usage.
+ ● Added a batch processing feature for handling multiple usernames simultaneously.
+ ● Fixed memory leak issues during long-running sessions.
+ ● Soon: Introducing real-time alerts for suspicious activity detection.
+
+Changelog 2024/12/30
+ ● Added comprehensive logging for all user actions to enhance audit trails.
+ ● Added export functionality for reports in PDF and CSV formats.
+ ● Fixed UI glitches on high-resolution screens.
+ ● Soon: Enhancing integration with third-party APIs for broader data collection.
+
+Changelog 2024/12/22
+ ● Added customizable user roles and permissions to control access levels.
+ ● Added localization support for multiple languages.
+ ● Fixed an issue with database synchronization under heavy load.
+ ● Soon: Developing a mobile app companion for on-the-go OSINT operations.
+
+Changelog 2024/12/15
+ ● Added visualization tools for mapping relationships between users.
+ ● Added a caching mechanism to speed up repeated queries.
+ ● Fixed incorrect timezone handling in data exports.
+ ● Soon: Launching a community forum for user collaboration and support.
+
+Changelog 2024/12/08
+ ● Added a new onboarding wizard for first-time users.
+ ● Added automatic updates for keeping the tool up-to-date with minimal user intervention.
+ ● Fixed a crash occurring when processing large datasets.
+ ● Soon: Integrating machine learning for predictive analysis of data trends.
